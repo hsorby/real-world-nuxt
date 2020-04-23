@@ -8,7 +8,7 @@
         List
       </nuxt-link>
       |
-      <nuxt-link to="/create" class="brand">
+      <nuxt-link to="/event/create" class="brand">
         Create
       </nuxt-link>
     </nav>
